@@ -1,0 +1,12 @@
+body {
+    text-align: center; background-color:  cornsilk; 
+}
+h1 {
+ background-color: forestgreen; color: cornsilk   
+}
+h3 {
+    background-color: burlywood; border-color: darkgreen;border-top-left-radius: 10px; border-bottom-right-radius: 10px;
+}
+.treepic {
+    width: 50%; height: 500px;
+}
